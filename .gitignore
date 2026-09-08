@@ -1,0 +1,13 @@
+# Python & Bytecode
+__pycache__/
+*.pyc
+*.pyo
+ 
+# Airflow & Local Data
+logs/
+data/
+.env
+ 
+# Docker & OS
+.DS_Store
+Thumbs.db

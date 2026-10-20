@@ -480,11 +480,3 @@ This project is intended for educational and portfolio purposes.
 The scraped documents and content belong to their respective source/rights holders.
 
 ---
-
-## 👨‍💻 Author
-
-**Leo**
-
-Built as a data engineering project to demonstrate web scraping, MongoDB, PDF processing, Docker, and Apache Airflow workflow orchestration.
-
-This version is **GitHub-ready** and presents the project as a proper data-engineering portfolio project rather than just a scraper.

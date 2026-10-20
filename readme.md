@@ -1,6 +1,4 @@
-Absolutely. Since this is going on GitHub, I’d make the README **professional but not overly complicated**, and highlight the Airflow orchestration, Docker setup, MongoDB, PDF processing, and project architecture.
 
-Here is a ready-to-use `README.md`:
 
 # Cabinet Scraper — Airflow Data Pipeline
 
